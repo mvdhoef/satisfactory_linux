@@ -12,4 +12,4 @@ sudo apt install steamcmd
 
 ln -s /usr/games/steamcmd steamcmd
 
-./run.sh
+run.sh
