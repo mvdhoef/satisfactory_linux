@@ -1,0 +1,1 @@
+su -c ./update_and_run.sh steam
