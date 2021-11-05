@@ -1,5 +1,3 @@
-C:\FactoryServer
-
 curl -sSL https://repos.insights.digitalocean.com/install.sh | sudo bash
 
 useradd -m steam
@@ -14,4 +12,4 @@ sudo apt install steamcmd
 
 ln -s /usr/games/steamcmd steamcmd
 
-steamcmd +login anonymous +force_install_dir FactoryServer SatisfactoryDedicatedServer +app_update 1690800 +quit
+update_and_run.sh
